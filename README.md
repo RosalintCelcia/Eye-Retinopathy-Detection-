@@ -20,7 +20,7 @@ Metrics and Evaluation:
       F1-Score
       Area Under Curve (AUC)
    
-# Visualization:
+# Visualization
   - Provides comparative plots for input images, ground truth masks, and predicted masks.
   - Displays training and validation loss/accuracy curves.
 
@@ -43,7 +43,7 @@ pip install tensorflow keras segmentation-models matplotlib opencv-python
 3.Run the Code: Execute the script to preprocess the data, train the model, and evaluate its performance:
 python eye_retinopathy_detection.py
 
-# Visualizations:
+# Visualizations
   The script generates and saves:
     Training and validation loss/accuracy plots.
     Comparative visualizations of input images, ground truth masks, and predicted masks.
